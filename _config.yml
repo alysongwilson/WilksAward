@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Conference on Applied Statistics in Defense
+title: Army Wilks Memorial Award
 
 # Your name to show in the footer
 author: Alyson Wilson and Jacqueline Telford
@@ -14,34 +14,20 @@ author: Alyson Wilson and Jacqueline Telford
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Conferences:
-    - 1955-1960: "c55"
-    - 1961-1970: "c61"
-    - 1971-1980: "c71"
-    - 1981-1990: "c81"
-    - 1991-2000: "c91"
-    - 2001-2010: "c01"
-    - 2011-2016: "c11"
-    - Author Index: "authorind"
-  Army Wilks Award: 
-  - Winners: "https://alysongwilson.github.io/ACAS/wilksaward"
-  - Archive: "wilksarchive"
+  Conference on Applied Statistics in Defense: "https://www.armyconferencehistory.org"
+  Army Wilks Award Archive: "wilksarchive"
   Updates?: "update"
 
 # --- Logo --- #
-
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
-avatar: "camobox.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "camobox.png"
 
-url: "https://www.armyconferencehistory.org"
+url: "https://www.armywilksaward.org"
 baseurl: ""
 
 # --- Footer social media links --- #
